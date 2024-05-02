@@ -1,5 +1,6 @@
 # Awesome Mining Band Ratio
 
+
 [![Awesome](https://raw.githubusercontent.com/softwareunderground/awesome-open-geoscience/master/media/icon/badge.svg)](https://github.com/sindresorhus/awesome) [![Commits](https://img.shields.io/github/last-commit/rodreras/awesome-mining-band-ratio.svg?label=last%20contribution)](https://github.com/rodreras/awesome-mining-band-ratio/commits/main) [![License](https://img.shields.io/github/license/rodreras/awesome-mining-band-ratio.svg)](https://github.com/rodreras/awesome-mining-band-ratio/blob/master/LICENSE)
 
 
@@ -7,7 +8,14 @@ _Under Construction_ (25.04.24)
 
 A curated list of  materials, mineral spectral signature and published band ratios aiming the application of Remote Sensing to Mineral Exploration. 
 
+![alt text](images/image-1.png)
+
 **Please contribute. Let's make this guide better!**
+
+
+
+
+
 
 **Table of Contents**
 
