@@ -244,9 +244,23 @@ ____
 | ▲ [Top](#awesome-mining-band-ratio) |
 |---|
 
-## Awesome List
+## Planetary Datasets
 
-[Awesome Spectral Indexes](https://awesome-ee-spectral-indices.readthedocs.io/en/latest/index.html)
+- [Revised CRISM spectral parameters and summary products based on the currently detected mineral diversity on Mars](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1002/2014JE004627)
+
+| ▲ [Top](#awesome-mining-band-ratio) |
+|---|
+
+## Other Awesome List
+
+- [Awesome Spectral Indexes](https://awesome-ee-spectral-indices.readthedocs.io/en/latest/index.html) - Awesome list for spectral indices.
+- [Awesome Open Geoscience](https://github.com/softwareunderground/awesome-open-geoscience/tree/main) - Awesome list of free and open geoscientific resources.
+- [Awesome-Spatial](https://github.com/RoboDonut/awesome-spatial) –  Awesome list for geospatial, not specific to geoscience but significant overlap.
+- [Awesome GIS](https://github.com/sshuair/awesome-gis) - Awesome list related to all things Geographic Information Systems (GIS).
+- [Awesome Open Climate Science](https://github.com/pangeo-data/awesome-open-climate-science) – Awesome list for atmospheric, ocean, climate, and hydrologic science.
+- [Awesome Coastal](https://github.com/chrisleaman/awesome-coastal) – Awesome list for coastal engineers and scientists.
+- [Awesome Earth Artificial Intelligence](https://github.com/ESIPFed/Awesome-Earth-Artificial-Intelligence) –  Awesome list for artificial intelligence use cases in Earth Science maintinaed by ESIP (<a href="https://wiki.esipfed.org/Main_Page">Earth Science Information Partners</a>, which is a earth science informatics community) Machine Learning Cluster.
+- [Awesome Historic(al) Maps](https://github.com/stark1tty/Awesome-Historic_al-Maps) - Awesome list of resources, databases and tools related to Historic Maps.
 
 | ▲ [Top](#awesome-mining-band-ratio) |
 |---|
